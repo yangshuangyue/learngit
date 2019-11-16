@@ -1,0 +1,8 @@
+vi test.txt
+this is test git file
+
+
+
+
+eixt
+quit
