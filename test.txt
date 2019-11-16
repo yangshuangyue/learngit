@@ -1,5 +1,6 @@
 vi test.txt
 this is test git file
+add new a line
 
 
 
